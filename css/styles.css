@@ -4,3 +4,18 @@ body
 	background-color: rgba( 40 , 40 , 40 , 255);
 	color: black;
 }
+
+
+#title
+{
+	font-family: 'Josefin Slab' , serif;
+}
+
+
+#nav
+{
+	width : 80%;
+	height: 150px;
+	float: left;
+	margin-left: 10%;
+}
