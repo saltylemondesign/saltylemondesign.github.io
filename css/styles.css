@@ -47,9 +47,16 @@ body
 	height: 80px;
 	font-family: "Josefin Slab", cursive;
 }
+
 .navlink
 {
 	float : left;
 	width : 15%;
 	margin-left: 5%;
+}
+
+.navlink a
+{
+	border: black;
+	
 }
