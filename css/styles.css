@@ -40,14 +40,13 @@ body
     text-align: center;
 }
 
-#nav
+#navbar
 {
-	width : 90%;
-	height: 50px;
+	width: 100%;
 	float: left;
-	margin-left: 10%;
+	height: 80px;
+	font-family: "Josefin Slab", cursive;
 }
-
 .navlink
 {
 	float : left;
